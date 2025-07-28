@@ -31,14 +31,6 @@ We offer a comprehensive suite of tools to identify and neutralize digital threa
 * **🛡️ ScamDB:** Our continuously updated Scam Database tracks global scam patterns, improving our detection models and empowering our community to stay ahead of fraudsters.
 * **🔌 Simple APIs & Integrations:** Easily integrate our detection capabilities into your existing tools, platforms, and fraud-detection pipelines with our REST APIs and MCPs.
 
-## 🚀 Featured Repositories
-
-While many of our core models are proprietary, we believe in empowering the developer community. Here are some of our key public projects:
-
-* **[scam-ai/api-docs](https://github.com/scam-ai/api-docs):** Official documentation and guides for integrating with the Scam AI API.
-* **[scam-ai/sdk-python](https://github.com/scam-ai/sdk-python):** The official Python SDK for interacting with our platform.
-* **[scam-ai/community-guides](https://github.com/scam-ai/community-guides):** Resources and best practices for preventing AI-powered fraud.
-
 ## 🤝 Get in Touch
 
 * **Request a Demo:** See our technology in action by [scheduling a demo with our team](https://cal.com/scamai/25min).

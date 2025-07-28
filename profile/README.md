@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://scam.ai/light_logo.svg" alt="Scam AI Logo" width="200"/>
-  <h1>Scam AI</h1>
   <h3>Detect Deepfakes & Scams Instantly 🛡️</h3>
   <p>
     Real-time AI detection of deepfakes, voice clones, and phishing attacks. 

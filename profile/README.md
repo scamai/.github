@@ -23,7 +23,7 @@
 
 **Scam.ai** is an AI-powered platform for detecting deepfakes and synthetic media in real time. We help businesses verify identity, authenticate content, and build trust in the AI era.
 
-Backed by **Berkeley SkyDeck** with **$2.5M in seed funding**.
+Backed by **[Berkeley SkyDeck](https://skydeck.berkeley.edu/)** with **$2.5M in seed funding**.
 
 ## ✨ Our Technology
 

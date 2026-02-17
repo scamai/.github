@@ -1,11 +1,9 @@
 <div align="center">
-  <div style="display:inline-block; background-color:#1a1a2e; border-radius:12px; padding:20px 32px;">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://scam.ai/scamai-logo.svg"/>
-      <source media="(prefers-color-scheme: dark)" srcset="https://scam.ai/scamai-logo.svg"/>
-      <img src="https://scam.ai/scamai-logo.svg" alt="Scam AI Logo" width="200" style="background-color:#1a1a2e; border-radius:12px; padding:20px 32px;"/>
-    </picture>
-  </div>
+  <table><tr><td align="center" bgcolor="#1a1a2e">
+    <br/>
+    <img src="https://scam.ai/scamai-logo.svg" alt="Scam AI Logo" width="200"/>
+    <br/><br/>
+  </td></tr></table>
   <h3>Building Trust in the AI Era 🛡️</h3>
   <p>
     An AI-powered platform for detecting deepfakes and synthetic media in real time.

@@ -38,5 +38,5 @@ Backed by **[Berkeley SkyDeck](https://skydeck.berkeley.edu/)** ([Batch 20](http
 * **Contact Us:** Have questions or want to partner with us? [Email us at contact@scam.ai](mailto:contact@scam.ai?subject=Inquiry%20from%20GitHub).
 
 <div align="center">
-  <p>Made with ❤️ around the World 🇨🇦 🇺🇸 🇮🇳 🇸🇬</p>
+  <p>Made with ❤️ around the World 🇺🇸 🇨🇦 🇨🇳 🇮🇳 🇸🇬 ...</p>
 </div>

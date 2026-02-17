@@ -1,10 +1,16 @@
 <div align="center">
-  <img src="https://scam.ai/light_logo.svg" alt="Scam AI Logo" width="200"/>
-  <h3>Detect Deepfakes & Scams Instantly 🛡️</h3>
+  <div style="display:inline-block; background-color:#1a1a2e; border-radius:12px; padding:20px 32px;">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://scam.ai/scamai-logo.svg"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://scam.ai/scamai-logo.svg"/>
+      <img src="https://scam.ai/scamai-logo.svg" alt="Scam AI Logo" width="200" style="background-color:#1a1a2e; border-radius:12px; padding:20px 32px;"/>
+    </picture>
+  </div>
+  <h3>Building Trust in the AI Era 🛡️</h3>
   <p>
-    Real-time AI detection of deepfakes, voice clones, and phishing attacks. 
-    <br/> 
-    We protect your business and family from digital fraud in seconds.
+    An AI-powered platform for detecting deepfakes and synthetic media in real time.
+    <br/>
+    95.3% detection accuracy. Processing times under 200ms.
   </p>
   <p>
     <a href="https://scam.ai"><strong>Website</strong></a> ·
@@ -17,24 +23,21 @@
 
 ## 👋 About Us
 
-**Scam.ai** is an all-in-one AI-powered solution for scam detection and prevention. As digital threats become more sophisticated, our mission is to provide the tools necessary to verify identity, authenticate content, and safeguard communications. We are building a community dedicated to fighting back against scammers.
+**Scam.ai** is an AI-powered platform for detecting deepfakes and synthetic media in real time. We help businesses verify identity, authenticate content, and build trust in the AI era.
 
-We are proud to be backed by **Berkeley SkyDeck**.
+Backed by **Berkeley SkyDeck** with **$2.5M in seed funding**.
 
 ## ✨ Our Technology
 
-We offer a comprehensive suite of tools to identify and neutralize digital threats before they cause harm.
-
-* **🤖 AI-Powered Detection:** Our core engine analyzes text, links, QR codes, images, videos, and audio files to identify malicious patterns, phishing attempts, and fraudulent content.
-* **🎭 Deepfake & Voice Clone Analysis:** We use advanced models to detect synthetic media, manipulated videos, and AI-generated voice clones with high accuracy.
-* **🛡️ ScamDB:** Our continuously updated Scam Database tracks global scam patterns, improving our detection models and empowering our community to stay ahead of fraudsters.
-* **🔌 Simple APIs & Integrations:** Easily integrate our detection capabilities into your existing tools, platforms, and fraud-detection pipelines with our REST APIs and MCPs.
+* **🤖 Eva Detection Models:** Our proprietary Eva-v1-Fast and Eva-v1-Pro models deliver industry-leading deepfake detection across images, video, and audio.
+* **🎭 Multi-Modal Analysis:** Vision detection, audio detection, and GenAI content verification — covering the full spectrum of synthetic media threats.
+* **🔌 Developer-Friendly APIs:** RESTful APIs designed for easy integration — get up and running in under 10 minutes.
+* **🏢 Enterprise Ready:** SOC 2 Type II certified and GDPR compliant, with ScamDB-powered threat intelligence built in.
 
 ## 🤝 Get in Touch
 
 * **Request a Demo:** See our technology in action by [scheduling a demo with our team](https://cal.com/scamai/25min).
-* **Contact Us:** Have questions or want to partner with us? [Email us at ceo@scam.ai](mailto:ceo@scam.ai?subject=Inquiry%20from%20GitHub).
-* **Contribute:** Help us build a safer digital world by reporting new scams to our **ScamDB**.
+* **Contact Us:** Have questions or want to partner with us? [Email us at contact@scam.ai](mailto:contact@scam.ai?subject=Inquiry%20from%20GitHub).
 
 <div align="center">
   <p>Made with ❤️ around the World 🇨🇦 🇺🇸 🇮🇳 🇸🇬</p>

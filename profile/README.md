@@ -12,7 +12,7 @@
   </p>
   <p>
     <a href="https://scam.ai"><strong>Website</strong></a> ·
-    <a href="https://cal.com/scamai/25min"><strong>Request a Demo</strong></a> ·
+    <a href="https://cal.com/scamai/15min"><strong>Request a Demo</strong></a> ·
     <a href="https://www.producthunt.com/products/scam-ai"><strong>Product Hunt</strong></a>
   </p>
 </div>
@@ -34,7 +34,7 @@ Backed by **Berkeley SkyDeck** with **$2.5M in seed funding**.
 
 ## 🤝 Get in Touch
 
-* **Request a Demo:** See our technology in action by [scheduling a demo with our team](https://cal.com/scamai/25min).
+* **Request a Demo:** See our technology in action by [scheduling a demo with our team](https://cal.com/scamai/15min).
 * **Contact Us:** Have questions or want to partner with us? [Email us at contact@scam.ai](mailto:contact@scam.ai?subject=Inquiry%20from%20GitHub).
 
 <div align="center">

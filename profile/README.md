@@ -42,6 +42,16 @@ Our core detection engine is closed-source, but we share research, datasets, and
 
 Found a security issue? See our [Security Policy](https://github.com/scamai/.github/blob/main/SECURITY.md).
 
+## 📈 Always Shipping
+
+Most of our work happens in private repositories — here is the daily commit activity across every repo we have, public and private, refreshed daily:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="contribution-wall-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="contribution-wall-light.svg"/>
+  <img src="contribution-wall-light.svg" alt="Daily commit activity across all Scam AI repositories over the last year"/>
+</picture>
+
 ## 🤝 Get in Touch
 
 * **Request a Demo:** See our technology in action by [scheduling a demo with our team](https://cal.com/scamai/15min).

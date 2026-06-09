@@ -1,0 +1,29 @@
+name: Contribution wall
+
+on:
+  schedule:
+    - cron: "17 9 * * *" # daily, 09:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate heatmap SVGs
+        run: python3 scripts/contribution_wall.py
+        env:
+          # Fine-grained PAT with org-wide read access (contents + metadata).
+          # The default GITHUB_TOKEN cannot see the org's other private repos.
+          ORG_STATS_TOKEN: ${{ secrets.ORG_STATS_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/contribution-wall-*.svg
+          git diff --cached --quiet || { git commit -m "chore: refresh contribution wall"; git push; }

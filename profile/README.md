@@ -32,6 +32,16 @@ Backed by **[Berkeley SkyDeck](https://skydeck.berkeley.edu/)** ([Batch 20](http
 * **🔌 Developer-Friendly APIs:** RESTful APIs designed for easy integration — get up and running in under 10 minutes.
 * **🏢 Enterprise Ready:** SOC 2 Type II certified and GDPR compliant, with ScamDB-powered threat intelligence built in.
 
+## 🔬 Open Research & Open Source
+
+Our core detection engine is closed-source, but we share research, datasets, and tools with the community:
+
+* **[gpt-image-2-dataset](https://github.com/scamai/gpt-image-2-dataset):** Collection pipeline for 10,217 confirmed GPT-Image-2 images found in the wild — code for our dataset paper.
+* **[scamai-deepfake-detector-dataset](https://github.com/scamai/scamai-deepfake-detector-dataset):** Benchmark dataset from our research paper *"Do Deepfake Detectors Work in Reality?"*
+* **[PII_ZERO](https://github.com/scamai/PII_ZERO):** Open-source, multi-modal, local-first PII removal — private, auditable, and compliant.
+
+Found a security issue? See our [Security Policy](https://github.com/scamai/.github/blob/main/SECURITY.md).
+
 ## 🤝 Get in Touch
 
 * **Request a Demo:** See our technology in action by [scheduling a demo with our team](https://cal.com/scamai/15min).

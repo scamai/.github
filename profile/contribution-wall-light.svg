@@ -384,8 +384,9 @@
 <rect x="762" y="50" width="11" height="11" rx="2" fill="#216e39"><title>2026-06-09: 114 commits</title></rect>
 <rect x="762" y="64" width="11" height="11" rx="2" fill="#216e39"><title>2026-06-10: 133 commits</title></rect>
 <rect x="762" y="78" width="11" height="11" rx="2" fill="#216e39"><title>2026-06-11: 130 commits</title></rect>
-<rect x="762" y="92" width="11" height="11" rx="2" fill="#30a14e"><title>2026-06-12: 26 commits</title></rect>
-<text x="34" y="137">8,546 commits across 135 repositories in the last year</text>
+<rect x="762" y="92" width="11" height="11" rx="2" fill="#216e39"><title>2026-06-12: 81 commits</title></rect>
+<rect x="762" y="106" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-06-13: 0 commits</title></rect>
+<text x="34" y="137">8,601 commits across 135 repositories in the last year</text>
 <text x="607" y="137">Less</text>
 <rect x="639" y="128" width="11" height="11" rx="2" fill="#ebedf0"/>
 <rect x="653" y="128" width="11" height="11" rx="2" fill="#9be9a8"/>

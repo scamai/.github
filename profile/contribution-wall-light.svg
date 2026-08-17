@@ -328,8 +328,8 @@
 <rect x="650" y="50" width="11" height="11" rx="2" fill="#40c463"><title>2026-06-23: 18 commits</title></rect>
 <rect x="650" y="64" width="11" height="11" rx="2" fill="#40c463"><title>2026-06-24: 44 commits</title></rect>
 <rect x="650" y="78" width="11" height="11" rx="2" fill="#40c463"><title>2026-06-25: 46 commits</title></rect>
-<rect x="650" y="92" width="11" height="11" rx="2" fill="#30a14e"><title>2026-06-26: 79 commits</title></rect>
-<rect x="650" y="106" width="11" height="11" rx="2" fill="#216e39"><title>2026-06-27: 136 commits</title></rect>
+<rect x="650" y="92" width="11" height="11" rx="2" fill="#30a14e"><title>2026-06-26: 80 commits</title></rect>
+<rect x="650" y="106" width="11" height="11" rx="2" fill="#216e39"><title>2026-06-27: 137 commits</title></rect>
 <rect x="664" y="22" width="11" height="11" rx="2" fill="#30a14e"><title>2026-06-28: 101 commits</title></rect>
 <rect x="664" y="36" width="11" height="11" rx="2" fill="#30a14e"><title>2026-06-29: 106 commits</title></rect>
 <rect x="664" y="50" width="11" height="11" rx="2" fill="#216e39"><title>2026-06-30: 231 commits</title></rect>
@@ -379,8 +379,9 @@
 <rect x="748" y="78" width="11" height="11" rx="2" fill="#216e39"><title>2026-08-13: 301 commits</title></rect>
 <rect x="748" y="92" width="11" height="11" rx="2" fill="#30a14e"><title>2026-08-14: 70 commits</title></rect>
 <rect x="748" y="106" width="11" height="11" rx="2" fill="#30a14e"><title>2026-08-15: 90 commits</title></rect>
-<rect x="762" y="22" width="11" height="11" rx="2" fill="#40c463"><title>2026-08-16: 19 commits</title></rect>
-<text x="34" y="137">21,147 commits across 163 repositories in the last year</text>
+<rect x="762" y="22" width="11" height="11" rx="2" fill="#30a14e"><title>2026-08-16: 81 commits</title></rect>
+<rect x="762" y="36" width="11" height="11" rx="2" fill="#40c463"><title>2026-08-17: 28 commits</title></rect>
+<text x="34" y="137">21,239 commits across 163 repositories in the last year</text>
 <text x="607" y="137">Less</text>
 <rect x="639" y="128" width="11" height="11" rx="2" fill="#ebedf0"/>
 <rect x="653" y="128" width="11" height="11" rx="2" fill="#9be9a8"/>

@@ -37,7 +37,7 @@ Backed by **[Berkeley SkyDeck](https://skydeck.berkeley.edu/)** ([Batch 20](http
 Our core detection engine is closed-source, but we share research, datasets, and tools with the community:
 
 * **[gpt-image-2-dataset](https://github.com/scamai/gpt-image-2-dataset):** Collection pipeline for 10,217 confirmed GPT-Image-2 images found in the wild — code for our dataset paper.
-* **[PII_ZERO](https://github.com/scamai/PII_ZERO):** Open-source, multi-modal, local-first PII removal — private, auditable, and compliant.
+* **[PII Zero](https://github.com/scamai/pii-zero):** Local PII redaction for PDFs and document images, with detection review and JSON audit records. Experimental; see the repository for current scope and licensing.
 
 Found a security issue? See our [Security Policy](https://github.com/scamai/.github/blob/main/SECURITY.md).
 

@@ -21,7 +21,7 @@
 
 ## 👋 About Us
 
-**Scam.ai** is an AI-powered platform for detecting deepfakes and synthetic media in real time. We help businesses verify identity, authenticate content, and build trust in the AI era.
+**Scam AI** is an AI-powered platform for detecting deepfakes and synthetic media in real time. We help businesses verify identity, authenticate content, and build trust in the AI era.
 
 Backed by **[Berkeley SkyDeck](https://skydeck.berkeley.edu/)** ([Batch 20](https://skydeck.berkeley.edu/batch20/)) with **$2.5M in seed funding**.
 
@@ -37,7 +37,6 @@ Backed by **[Berkeley SkyDeck](https://skydeck.berkeley.edu/)** ([Batch 20](http
 Our core detection engine is closed-source, but we share research, datasets, and tools with the community:
 
 * **[gpt-image-2-dataset](https://github.com/scamai/gpt-image-2-dataset):** Collection pipeline for 10,217 confirmed GPT-Image-2 images found in the wild — code for our dataset paper.
-* **[scamai-deepfake-detector-dataset](https://github.com/scamai/scamai-deepfake-detector-dataset):** Benchmark dataset from our research paper *"Do Deepfake Detectors Work in Reality?"*
 * **[PII_ZERO](https://github.com/scamai/PII_ZERO):** Open-source, multi-modal, local-first PII removal — private, auditable, and compliant.
 
 Found a security issue? See our [Security Policy](https://github.com/scamai/.github/blob/main/SECURITY.md).
